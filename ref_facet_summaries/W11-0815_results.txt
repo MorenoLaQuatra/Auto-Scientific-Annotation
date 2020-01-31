@@ -1,0 +1,1 @@
+We used Zettair to generate the ranked list of documents retrieved in response to each query.

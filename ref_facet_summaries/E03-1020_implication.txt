@@ -1,0 +1,1 @@
+This gives rise to an automatic, unsupervised word sense disambiguation algorithm which is trained on the data to be disambiguated.

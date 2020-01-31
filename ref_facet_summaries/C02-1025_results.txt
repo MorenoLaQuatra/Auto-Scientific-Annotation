@@ -1,0 +1,1 @@
+In this paper, we show that the maximum entropy framework is able to make use of global information directly, and achieves performance that is comparable to the best previous machine learning-based NERs on MUC6 and MUC7 test data. We have shown that the maximum entropy framework is able to use global information directly.

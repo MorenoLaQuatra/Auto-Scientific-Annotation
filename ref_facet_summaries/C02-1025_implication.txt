@@ -1,0 +1,1 @@
+A named entity recognizer (NER) is useful in many NLP applications such as information extraction, question answering, etc. On its own, a NER can also provide users who are looking for person or organization names with quick information.

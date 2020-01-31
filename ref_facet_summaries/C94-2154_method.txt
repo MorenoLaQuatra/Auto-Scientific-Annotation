@@ -1,0 +1,1 @@
+The Troll system, which is based on this idea, effectively inqflements type resolution. It would, of course, not be very efficient to work with such large disjunctions of feature structures.
