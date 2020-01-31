@@ -5,6 +5,9 @@ This repository contains the automatically annotated citations for the [ScisummN
 The repository is organized as follow:
 - The `pivot_words` directory contains the pivot words both for the citing and the cited sentences extracted from the scisumm-corpus training set using the method described [here](https://arxiv.org/abs/1909.12335). Implementation available in this [repository](https://github.com/FranxYao/pivot_analysis).
 - The `annotations` folder contains the output of the automatic annotation described in the paper [link to the paper](link). For each paper the annotations are proposed in a `.tsv` where each line is formatted as: `citation_id  citation_type`.
+- The `hyp_facet_summaries` directory contains one subfolder for each paper in the test set. Each subfolder contains the proposed facet summaries by different regression models.
+- The `ref_facet_summaries` directory contains the gold facet summaries for each pair paper - citation facet.
+
 
 ## Annotation examples
 
