@@ -1,0 +1,1 @@
+In addition, the latter can be used to balance out-of-vocabulary rates and in-vocabulary rates. 1. For a character-based IOB tagger, there is only one possibility of re-segmentation. 3.1 Effects of the Character-based and the. Qc 2006

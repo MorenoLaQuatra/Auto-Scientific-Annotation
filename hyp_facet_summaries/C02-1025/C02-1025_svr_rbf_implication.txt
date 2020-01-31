@@ -1,0 +1,1 @@
+Recently, statistical NERs have achieved results that are comparable to hand-coded systems. Each feature group can be made up of many binary features. Suffixes and Prefixes: This group contains only two features: Corporate-Suffix and Person-Prefix. ”). Multiple features

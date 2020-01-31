@@ -1,0 +1,1 @@
+Strategic Lazy Incremental Copy Graph Unification These properties enable flexible descriptions. 1. 2. 3. 4. Next, the procedure treats arcs. 5. Return(outnode). TypeSymbol2

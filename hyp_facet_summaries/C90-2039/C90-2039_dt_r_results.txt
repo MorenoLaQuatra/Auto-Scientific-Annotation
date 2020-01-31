@@ -1,0 +1,1 @@
+Strategic Lazy Incremental Copy Graph Unification 1. 2. 3. 4. 5. ELSE AddArc(outnode, sharedl.label, arcnode). Return(outnode). 6). IF Current?(node) THEN Return(node). Return(Nil_). lh'esenl,

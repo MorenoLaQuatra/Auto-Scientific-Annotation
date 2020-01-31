@@ -1,0 +1,1 @@
+Strategic Lazy Incremental Copy Graph Unification Copying sharable parts is called redundant copying. 2. 3. 4. Next, the procedure treats arcs. 5. lh'esenl,

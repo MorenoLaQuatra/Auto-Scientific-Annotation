@@ -1,0 +1,1 @@
+Calzolari et al. 3.1 Resources and Tools. IR evaluation is based on recall and precision. C

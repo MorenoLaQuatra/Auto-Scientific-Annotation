@@ -1,0 +1,1 @@
+1. 2. 3. 4. 5. node2 = Dereferencelnode2). (sharedst, shareds2) = SharedArcs(nodel.arcs, node2.arcs). complements1 = ComplementArcs(node|.arcs, node2.arcs). complements2 = ComplementArcs(node2.arcs, nodel.arcs). 6). TypeSymbol2

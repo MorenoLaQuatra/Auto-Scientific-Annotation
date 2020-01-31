@@ -1,0 +1,1 @@
+Better Arabic Parsing: Baselines, Evaluations, and Analysis Diacritics can also be used to specify grammatical relations such as case and gender. Annotation consistency is important in any supervised learning task. markBaseNP indicates these non-recursive nominal phrases. 3.2

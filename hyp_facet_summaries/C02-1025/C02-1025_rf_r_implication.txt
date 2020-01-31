@@ -1,0 +1,1 @@
+Such constraints are derived from training data, expressing some relationship between features and outcome. Global features are extracted from other occurrences of the same token in the whole document. A Person-Prefix-List is compiled in an analogous way. 4.2

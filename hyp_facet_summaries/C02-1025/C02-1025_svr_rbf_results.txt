@@ -1,0 +1,1 @@
+Named Entity Recognition: A Maximum Entropy Approach Using Global Information both MENE and IdentiFinder used more training data than we did (we used only the official MUC 6 and MUC7 training data). ”). Moreover, if we want to test on a huge test corpus, indexing the whole corpus might prove computationally expensive. (1)

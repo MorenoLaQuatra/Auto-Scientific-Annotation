@@ -1,0 +1,1 @@
+Named Entity Recognition: A Maximum Entropy Approach Using Global Information By making use of global context, it has achieved excellent results on both MUC6 and MUC7 official test data. Mikheev et al. We will show that by giving the first model some global features, MENERGI outperforms Borthwick' s reference resolution classifier. ”). Bikel

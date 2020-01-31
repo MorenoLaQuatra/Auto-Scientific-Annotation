@@ -1,0 +1,1 @@
+Better Arabic Parsing: Baselines, Evaluations, and Analysis To facilitate comparison with previous work, we exhaustively evaluate this grammar and two other parsing models when gold segmentation is assumed (§5). of Arabic. phrase (markContainsVerb). Contains digits. pre-processing. Particles

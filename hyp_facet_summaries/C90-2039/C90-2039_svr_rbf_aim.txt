@@ -1,0 +1,1 @@
+Strategic Lazy Incremental Copy Graph Unification The redundantly copied parts are relatively large when input graphs have few common feature paths. An atomic FS is represented by an atomic symbol and a complex FS is represented by a set of feature-value pairs. Return(outnode). in this method, theretbre, the failure tendency information is acquired by a learning process. 1.

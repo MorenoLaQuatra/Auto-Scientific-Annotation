@@ -1,0 +1,1 @@
+We will refer to our system as MENERGI (Maximum Entropy Named Entity Recognizer using Global Information). ”). A secondary reference resolution classifier has information on the class assigned by the primary classifier. Using less training data than other systems, our NER is able to perform as well as other state-of-the-art NERs. On the

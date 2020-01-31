@@ -1,0 +1,1 @@
+For a character-based IOB tagger, there is only one possibility of re-segmentation. However, there are multiple choices for a subword-based IOB tagger. Another advantage of the word-based IOB tagging over the character-based is its speed. 67

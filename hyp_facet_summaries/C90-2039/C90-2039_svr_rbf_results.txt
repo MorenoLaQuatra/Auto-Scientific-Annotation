@@ -1,0 +1,1 @@
+Strategic Lazy Incremental Copy Graph Unification 1. 3. 4. The unification procedure first treats arc pairs obtained by SharedArcs. 5. Return(outnode). 6). itowever,

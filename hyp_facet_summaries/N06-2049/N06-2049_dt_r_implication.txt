@@ -1,0 +1,1 @@
+1. 2.2 Confidence-dependent word segmentation. We think our proposed subword- based tagging played an important role for the good results. We could yield a better results than those shown in Table 4 using such information. Section

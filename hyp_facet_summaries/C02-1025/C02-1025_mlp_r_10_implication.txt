@@ -1,0 +1,1 @@
+Named Entity Recognition: A Maximum Entropy Approach Using Global Information This paper presents a maximum entropy-based named entity recognizer (NER). 4.2 Global Features. ”). Information from a sentence is sometimes insufficient to classify a name correctly. Borth 2MUC data

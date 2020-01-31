@@ -1,0 +1,1 @@
+Each arc value is copied and an arc with the same label and the copied value is added to the output node. The

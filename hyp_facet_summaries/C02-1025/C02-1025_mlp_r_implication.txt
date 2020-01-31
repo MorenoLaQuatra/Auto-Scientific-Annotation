@@ -1,0 +1,1 @@
+”). Sequence of Initial Caps (SOIC): In the sentence Even News Broadcasting Corp., noted for its accurate reporting, made the erroneous announcement., a NER may mistake Even News Broadcasting Corp. as an organization name. Mikheev et al. The

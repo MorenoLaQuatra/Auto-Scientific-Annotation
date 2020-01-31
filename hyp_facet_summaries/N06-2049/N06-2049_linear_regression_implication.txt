@@ -1,0 +1,1 @@
+In addition, the latter can be used to balance out-of-vocabulary rates and in-vocabulary rates. 2.1 Subword-based IOB tagging using CRFs. For a character-based IOB tagger, there is only one possibility of re-segmentation. For detailed info. Qc
