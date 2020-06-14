@@ -22,3 +22,13 @@ The repository is organized as follow:
 |             |  Cited | One reason for this is that the system recovers more easily from words that are split too much than from words that are not split up sufficiently.                                                                                                                                                                                                                                                                                                 |
 |     Aim     | Citing | the possible part(s)-of-speech of unknown words (Mikheev,1997).                                                                                                                                                                                                                                                                                                                                                                                    |
 |             |  Cited | In this paper we present a technique for fully automatic acquisition of rules that guess possible part-of-speech tags for unknown words using their starting and ending segments.                                                                                                                                                                                                                                                                  |
+
+## Citation
+
+If you use this material in your research work please let us know citing our [paper](https://doi.org/10.1007/s11192-020-03532-3) as follows:
+
+La Quatra, M., Cagliero, L. & Baralis, E. Exploiting pivot words to classify and summarize discourse facets of scientific papers. Scientometrics (2020). https://doi.org/10.1007/s11192-020-03532-3
+
+
+
+
