@@ -1,5 +1,5 @@
 # Automatic Scientific Annotation
-This repository contains the automatically annotated citations for the [ScisummNet dataset](https://cs.stanford.edu/~myasu/projects/scisumm_net/) using the classifier trained on the annotated collection [scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus). The annotation method uses the pivot-based classification model presented in the paper [link to the paper](link).
+This repository contains the automatically annotated citations for the [ScisummNet dataset](https://cs.stanford.edu/~myasu/projects/scisumm_net/) using the classifier trained on the annotated collection [scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus). The annotation method uses the pivot-based classification model presented in this [paper](https://doi.org/10.1007/s11192-020-03532-3).
 
 ## Repository Organization
 The repository is organized as follow:
