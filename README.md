@@ -25,9 +25,11 @@ The repository is organized as follow:
 
 ## Citation
 
-If you use this material in your research work please let us know citing our [paper](https://doi.org/10.1007/s11192-020-03532-3) as follows:
+The material is available for research purposes only. If you use this material in your research work please cite:
 
 La Quatra, M., Cagliero, L. & Baralis, E. Exploiting pivot words to classify and summarize discourse facets of scientific papers. Scientometrics (2020). https://doi.org/10.1007/s11192-020-03532-3
+
+
 
 
 
