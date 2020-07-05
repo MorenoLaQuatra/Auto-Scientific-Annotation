@@ -29,6 +29,8 @@ The material is available for research purposes only. If you use this material i
 
 La Quatra, M., Cagliero, L. & Baralis, E. Exploiting pivot words to classify and summarize discourse facets of scientific papers. Scientometrics (2020). https://doi.org/10.1007/s11192-020-03532-3
 
+https://rdcu.be/b5rel
+
 ```
 @article{10.1007/s11192-020-03532-3, 
   author = {Quatra, Moreno La and Cagliero, Luca and Baralis, Elena}, 
